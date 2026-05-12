@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi I'm B Gaurav Sandeep
 
-<!--
-**GauravSandeep/GauravSandeep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring SOC Analyst passionate about threat detection, SIEM monitoring and incident response
 
-Here are some ideas to get you started:
+## Skills
+- Splunk
+- Elastic Stack
+- Sysmon
+- Wireshark
+- Nessus
+- Linux
+- MITRE ATT&CK
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certifications
+- NASSCOM Cybersecurity Analysis & Design
+- Cisco Network Essentials
+- IBM Cloud Computing
+
+## Currently Learning
+- SOAR
+- Detection Engineering
+- Threat Hunting
+- SOC Operations
+
+
